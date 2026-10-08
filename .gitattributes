@@ -1,0 +1,3 @@
+# Keep authored text bytes identical in Windows checkouts and Linux release CI.
+* text=auto eol=lf
+*.inxpkg binary
