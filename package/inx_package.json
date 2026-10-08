@@ -1,7 +1,7 @@
 {
   "reference": "chenlizheme/tutorial_hello_plugin",
   "name": "Hello Plugin",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "engine": ">=0.4.1,<0.5",
   "intro": "A component that reads its packaged text resource."
 }
