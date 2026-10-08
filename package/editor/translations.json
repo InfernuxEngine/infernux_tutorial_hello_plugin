@@ -1,0 +1,22 @@
+{
+  "$schema": "infernux.editor_translations",
+  "locales": {
+    "en": {
+      "my_studio.hello_plugin.panel_title": "Hello Plugin",
+      "my_studio.hello_plugin.panel_message": "Hello from the plugin Editor panel!",
+      "my_studio.hello_plugin.menu_root": "Hello Plugin",
+      "my_studio.hello_plugin.menu_tools": "Tools",
+      "my_studio.hello_plugin.menu_diagnostics": "Diagnostics",
+      "my_studio.hello_plugin.menu_live": "Live"
+    },
+    "zh": {
+      "my_studio.hello_plugin.panel_title": "你好插件",
+      "my_studio.hello_plugin.panel_message": "来自插件 Editor 面板的问候！",
+      "my_studio.hello_plugin.menu_root": "你好插件",
+      "my_studio.hello_plugin.menu_tools": "工具",
+      "my_studio.hello_plugin.menu_diagnostics": "诊断",
+      "my_studio.hello_plugin.menu_live": "实时"
+    }
+  }
+}
+
